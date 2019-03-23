@@ -10,6 +10,7 @@ namespace Klient1
     {
         static void Main(string[] args)
         {
+            //pomocyyyyyyyyyyyyyyyyyyyyyyyy
         }
     }
 }
