@@ -11,8 +11,7 @@ namespace Klient1
         static void Main(string[] args)
         {
             //pomocyyyyyyyyyyyyyyyyyyyyyyyy
+            //BArdzo pomocy TERAZ
         }
     }
 }
-//agdjagdkjdgs
-//ihjcjbjhvgfcm ,j jgctjf j,h 
