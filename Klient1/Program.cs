@@ -12,6 +12,7 @@ namespace Klient1
         {
             //pomocyyyyyyyyyyyyyyyyyyyyyyyy
             //BArdzo pomocy TERAZ
+            //Maciej Ty wcale nie potrzebujesz pomocy :D 
         }
     }
 }
