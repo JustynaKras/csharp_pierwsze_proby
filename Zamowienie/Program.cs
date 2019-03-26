@@ -9,7 +9,7 @@ namespace Zamowienie
             //string name = args[0];  //przejdz do tablicy args, daj mi pierwszy element i przypisz do zmiennej name
 
             Console.WriteLine("Witaj świecie mój kochany, zakałdamy bazę klientów");
-            Console.WriteLine("Szczęściu Justyny po uruchomieniu programu - bezcenne :D");
+            Console.WriteLine("Szczęściu Bartka po uruchomieniu programu - bezcenne :D");
             Console.ReadLine();
         }
     }
