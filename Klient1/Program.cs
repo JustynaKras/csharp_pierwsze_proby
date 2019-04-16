@@ -12,14 +12,9 @@ namespace Klient1
         {
 
            
-            // Kras Ty pul rikłeście Ty :D 
+            // o co jej chodzi???
 
-
-            //pomocyyyyyyyyyyyyyyyyyyyyyyyy
-            //BArdzo pomocy TERAZ
-            //Maciej Ty wcale nie potrzebujesz pomocy :D 
-
-            //ale jestescie smieszki
+            
 
         }
     }
