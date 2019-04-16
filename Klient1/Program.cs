@@ -14,5 +14,8 @@ namespace Klient1
             // ucho mnie boli. I napiłbym się
 
         }
+
+
+        ///      heeeejjjjj, znowu krzyczy
     }
 }
