@@ -11,15 +11,7 @@ namespace Klient1
         static void Main(string[] args)
         {
 
-           
-            // Kras Ty pul rikłeście Ty :D 
-
-
-            //pomocyyyyyyyyyyyyyyyyyyyyyyyy
-            //BArdzo pomocy TERAZ
-            //Maciej Ty wcale nie potrzebujesz pomocy :D 
-
-            //ale jestescie smieszki
+            // ucho mnie boli. I napiłbym się
 
         }
     }
