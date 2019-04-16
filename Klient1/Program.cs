@@ -10,9 +10,9 @@ namespace Klient1
     {
         static void Main(string[] args)
         {
-            //pomocyyyyyyyyyyyyyyyyyyyyyyyy
-            //BArdzo pomocy TERAZ
-            //Maciej Ty wcale nie potrzebujesz pomocy :D 
+           
+            // Kras Ty pul rikłeście Ty :D 
+
         }
     }
 }
