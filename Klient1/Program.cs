@@ -11,8 +11,7 @@ namespace Klient1
         static void Main(string[] args)
         {
 
-            // serio, można się zgubić. Dzijo sie rzeczy, oj dziejo
-            //A w dodatku mnie obraża :(
+            // i ta muzyka...
 
         }
     }
